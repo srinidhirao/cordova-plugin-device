@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-device-electron",
+  "name": "cordova-plugin-device",
   "version": "1.0.0",
   "description": "Electron Native Support for Cordova Device Plugin",
   "main": "index.js",
